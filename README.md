@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I’m a passionate Frontend Software Engineer with
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nwachukwuemmanuel)
-- **Twitter:** [@Twitter](https://twitter.com/temofe_emmanuel)
-- **Email:** [Email](mailto:nwachi.dev@gmail.com)
+- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/nwachukwuemmanuel)](https://www.linkedin.com/in/nwachukwuemmanuel)
+- **Twitter:** [[@Twitter](https://twitter.com/temofe_emmanuel)](https://twitter.com/temofe_emmanuel)
+- **Email:** [mailto:nwachi.dev@gmail.com](mailto:nwachi.dev@gmail.com)
 
 Thank you for visiting my profile! I’m always open to collaboration and new opportunities. Let’s connect and create something amazing together.
 
